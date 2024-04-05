@@ -1,0 +1,7 @@
+0.tcp.ngrok.io:10838
+
+ADMIN: runneradmin
+PASS:  P@ssw0rd!
+
+https://github.com/JohnnyNetsec/github-vm
+https://github.com/HowToLearnHacking/uploads/blob/main/file.txt
